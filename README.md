@@ -2,5 +2,5 @@
 
 
 
-- 💻 Atualmente eu trabalho com backand
+- 💻 Atualmente eu trabalho com suporte de TI
 - 🐘 Estudando PHP
