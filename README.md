@@ -1,16 +1,18 @@
-## Hi there 👋
+## Olá, eu sou a Victoria Piassa 👋
 
-<!--
-**victoriapiassa/victoriapiassa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Atualmente eu trabalho com backand
+- 🐘 Estudando PHP
+
+<h1 align="center"></h1>
+
+<p align="left">
+  <a href="https://github.com/victoriapiassa/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=victoriapiassa&count_private=true" alt="Estatísticas do GitHub de Victoria Piassa" />
+  </a>
+  <a href="https://github.com/victoriapiassa/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoriapiassa&layout=compact" alt="Linguagens mais usadas no GitHub de Victoria Piassa " />
+  </a>
+</p>
+  
