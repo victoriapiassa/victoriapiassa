@@ -1,9 +1,11 @@
 Olá, meu nome é Victoria 👋
-- 💻 Atualmente eu trabalho com suporte de TI
-- 🐘 Estudando PHP
-- 📩 victoriapiassa2@gmail.com
+
+Atualmente trabalho como suporte de TI, auxiliando os clientes sobre como utilizar os sistemas e suas funcionalidades. Tenho intesse na área de back-and, entretanto já desenvolvi projetos no front-end, com HTML, CSS, JS e fremework TailWild. No presente momento, estudo PHP e Laravel.  
+
+Para contato: victoriapiassa2@gmail.com
+
 ---
-**Linguagens e Framework**
+**Linguagens e Frameworks**
 <div>
 <img 
   title="HTML"
