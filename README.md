@@ -29,6 +29,14 @@ Para contato: victoriapiassa2@gmail.com
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 
 <img 
+  title="JS"
+  align="left"
+  width="38px"
+  style="padding-right: 10 px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
+
+
+<img 
   title="Laravel"
   align="left"
   width="39px"
