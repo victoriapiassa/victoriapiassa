@@ -1,6 +1,6 @@
 Olá, meu nome é Victoria 👋
 
-Atualmente trabalho como suporte de TI, auxiliando os clientes sobre como utilizar os sistemas e suas funcionalidades. Tenho intesse na área de back-and, entretanto já desenvolvi projetos no front-end, com HTML, CSS, JS e fremework TailWild. No presente momento, estudo PHP e Laravel.  
+Atualmente estudo ADS e trabalho como suporte de TI, auxiliando os clientes sobre como utilizar os sistemas e suas funcionalidades. Tenho intesse na área de back-and, entretanto já desenvolvi projetos no front-end, com HTML, CSS, JS e fremework TailWild. No presente momento, estudo PHP e Laravel.  
 
 Para contato: victoriapiassa2@gmail.com
 
