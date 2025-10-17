@@ -28,14 +28,6 @@
   width="38px"
   style="padding-right: 10 px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
-
-
-<img 
-  title="Laravel"
-  align="left"
-  width="39px"
-  style="padding-right: 10 px;"  
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
   
 <img  
   title="Node"
@@ -43,15 +35,7 @@
   width="38px"
   style="padding-right: 10 px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
- 
-<img 
-  title="PHP"
-  align="left"
-  width="39px"
-  style="padding-right: 10 px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-  
- 
+
 <img
   title="Tailwild"
   align="left"
