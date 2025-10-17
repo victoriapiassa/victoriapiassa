@@ -1,8 +1,4 @@
-Olá, meu nome é Victoria 👋
 
-Atualmente sou estudante de ADS e trabalho como suporte de TI, auxiliando os clientes sobre como utilizar os sistemas e suas funcionalidades. Tenho intesse na área de back-end, possuo conhecimento em JavaScript, Node.Js, Express e Vue. 
-
----
 **Linguagens e Frameworks**
 <div>
 <img 
