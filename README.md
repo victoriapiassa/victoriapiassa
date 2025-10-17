@@ -1,6 +1,6 @@
 Olá, meu nome é Victoria 👋
 
-Atualmente sou estudante de ADS e trabalho como suporte de TI, auxiliando os clientes sobre como utilizar os sistemas e suas funcionalidades. Tenho intesse na área de back-and, entretanto já desenvolvi projetos no front-end, com HTML, CSS, JS e fremework TailWind. No presente momento, estudo PHP e Laravel.  
+Atualmente sou estudante de ADS e trabalho como suporte de TI, auxiliando os clientes sobre como utilizar os sistemas e suas funcionalidades. Tenho intesse na área de back-end, possuo conhecimento em JavaScript, Node.Js, Express e Vue. 
 
 ---
 **Linguagens e Frameworks**
