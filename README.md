@@ -1,3 +1,11 @@
+<div> 
+
+💻 Desenvolvedora em formação, interessada em front-end e back-end.
+🎮 Criando projetos interativos e aprendendo sempre.
+✨ Apaixonada por aprendizado contínuo.
+
+</div>
+
 
 **Linguagens e Frameworks**
 <div>
